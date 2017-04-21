@@ -1,0 +1,13 @@
+<manifest>
+  <remote name="origin"
+          fetch="." />
+
+  <default remote="origin"
+           revision="master" />
+
+  <project path="DummyProject1" name="DummyProject1" />
+  <project path="DummyProject2" name="DummyProject2" />
+  <project path="DummyProject3" name="DummyProject3" />
+  <project path="DummyProject4" name="DummyProject4" />
+  <project path="DummyProject5" name="DummyProject5" />
+</manifest>
